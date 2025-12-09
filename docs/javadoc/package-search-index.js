@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"phonebook"},{"l":"phonebook.model"},{"l":"phonebook.ui"},{"l":"phonebook.ui.dialogs"}];updateSearchResults();
