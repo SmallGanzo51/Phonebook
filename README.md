@@ -7,15 +7,15 @@
 
 Собрать JAR:
 
-``bash
+```bash
 ./gradlew jar
-``
+```
 
 Запуск JAR:
 
-``bash
+```bash
 java -jar app/build/libs/app-1.0.jar
-``
+```
 
 ## 📦 Структура проекта
 
@@ -28,15 +28,15 @@ java -jar app/build/libs/app-1.0.jar
 
 Логи хранятся в папке:
 
-``text
+```text
 logs/app.log
-``
+```
 
 ## 🧪 Тесты
 
 Запуск тестов:
 
-``bash
+```bash
 ./gradlew test
-``
+```
 
