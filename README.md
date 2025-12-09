@@ -7,13 +7,13 @@
 
 Собрать JAR:
 
-``\bash
+``bash
 ./gradlew jar
 ``
 
 Запуск JAR:
 
-``\bash
+``bash
 java -jar app/build/libs/app-1.0.jar
 ``
 
@@ -28,7 +28,7 @@ java -jar app/build/libs/app-1.0.jar
 
 Логи хранятся в папке:
 
-``\text
+``text
 logs/app.log
 ``
 
@@ -36,7 +36,7 @@ logs/app.log
 
 Запуск тестов:
 
-``\bash
+``bash
 ./gradlew test
 ``
 
